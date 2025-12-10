@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CheckNetVer.Core": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Projects\\MailInV2"
+    }
+  }
+}
